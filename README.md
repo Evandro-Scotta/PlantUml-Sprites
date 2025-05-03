@@ -13,7 +13,7 @@
   <h2>Pré-requisitos</h2>
   <ul>
     <li><strong>PlantUML</strong>: Ferramenta para gerar diagramas a partir de código. Você pode usá-lo localmente ou via extensões para IDEs, como <a href="https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml" target="_blank">VS Code</a> ou <a href="https://plugins.jetbrains.com/plugin/7017-plantuml-integration" target="_blank">IntelliJ IDEA</a>.</li>
-    <li><strong>Acesso aos ícones e sprites</strong>: Estamos utilizando os ícones do repositório <a href="https://github.com/Evandro-Scotta/PlantUml-Sprites" target="_blank">PlantUml-Sprites</a>, que são usados para personalizar o diagrama.</li>
+    <li><strong>Acesso aos ícones e sprites</strong>: Estamos utilizando os ícones do repositório <a href="https://github.com/ScottaEvandro/PlantUml-Sprites" target="_blank">PlantUml-Sprites</a>, que são usados para personalizar o diagrama.</li>
   </ul>
 
   <h2>Exemplo de Uso</h2>
@@ -64,7 +64,7 @@ System_Boundary(system, "Sistema E-Commerce") {
   <h2>Referências</h2>
   <ul>
     <li><a href="https://github.com/plantuml-stdlib/C4-PlantUML" target="_blank">C4-PlantUML</a> - Biblioteca para diagramas no estilo C4 Model.</li>
-    <li><a href="https://github.com/Evandro-Scotta/PlantUml-Sprites" target="_blank">PlantUml-Sprites</a> - Repositório com ícones para usar nos diagramas.</li>
+    <li><a href="https://github.com/ScottaEvandro/PlantUml-Sprites" target="_blank">PlantUml-Sprites</a> - Repositório com ícones para usar nos diagramas.</li>
   </ul>
 
   <h2>Contribuições</h2>
